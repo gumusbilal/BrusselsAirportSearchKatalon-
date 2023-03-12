@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can filter Departures by destination or flight number, and the results are displayed correctly.</description>
+   <name>TC_020</name>
+   <tag>Departures</tag>
+   <comment></comment>
+   <testCaseGuid>83890dd9-74d5-44a8-b346-13044dab62c4</testCaseGuid>
+</TestCaseEntity>

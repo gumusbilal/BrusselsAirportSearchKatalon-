@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can filter Arrivals by origin or flight number, and the results are displayed correctly.</description>
+   <name>TC_030</name>
+   <tag>Arrivals</tag>
+   <comment></comment>
+   <testCaseGuid>e0d2e880-849a-4e6c-a988-e1f94d51d55a</testCaseGuid>
+</TestCaseEntity>
